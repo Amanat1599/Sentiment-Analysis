@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis Using RNN(Recurrent Neuraal Network)
+Sentiment Analysis Using RNN(Recurrent Neural Network)
